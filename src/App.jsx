@@ -9,7 +9,7 @@ const App = () => {
       <Routes>
         {/* Default Route */}
         <Route
-          // path="/"
+          path="/"
           element={
             <div>
               <h2>Click On A State To Learn More</h2>
