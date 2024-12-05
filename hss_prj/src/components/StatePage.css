@@ -1,0 +1,8 @@
+.state-image {
+    width: 900px;
+    /* Set the desired width */
+    height: 500px;
+    /* Set the desired height */
+    object-fit: cover;
+    /* Prevent distortion */
+}
