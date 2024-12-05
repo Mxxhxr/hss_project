@@ -245,7 +245,7 @@ const StatePage = () => {
       https://www.vegrecipesofindia.com/kafuli-recipe/`
     },
     'Himachal Pradesh': {
-      images: ['/images/Himachal_pradesh.jpg'],
+      images: ['/images/Himachal_Pradesh.jpg'],
       description: `Himachal Pradesh is a beautifal state in northern India known for its scenic mountain towns and resorts.
 
       One of the most popular dishes in Himachal Pradesh is Dham, a traditional feast that includes rice, dal, rajma, curd, and sweet dishes. It is usually served during festivals and special occasions.
