@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"    # Build command
+  publish = "dist"             # Publish directory
+
+[dev]
+  framework = "vite"           # Specify Vite for local dev settings
