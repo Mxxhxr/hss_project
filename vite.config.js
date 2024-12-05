@@ -8,5 +8,5 @@ import react from '@vitejs/plugin-react-swc';
 
 export default defineConfig({
   plugins: [react()],
-  // base: '/hss_project/', // This must match your repo name
+  base: '/hss_project/', // This must match your repo name
 });
